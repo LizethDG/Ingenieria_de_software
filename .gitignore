@@ -1,0 +1,14 @@
+# Ignorar archivos de IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar archivos de compilación
+target/
+
+# Ignorar archivos de Maven Wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignorar logs y datos temporales
+*.log
