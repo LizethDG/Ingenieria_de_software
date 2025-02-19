@@ -25,3 +25,5 @@ cd Ingenieria_de_software/Tarea_1_HolaSpring
 - Selecciona Open y elige la Tarea_1_HolaSpring dentro del repositorio clonado.
 - IntelliJ debería detectar automáticamente que es un proyecto Maven y descargar las dependencias.
 
+## Prueba del endpoint
+![Captura de pantalla 2025-02-19 144017](https://github.com/user-attachments/assets/66a22ca3-b858-4281-a348-268b7aa916d7)
